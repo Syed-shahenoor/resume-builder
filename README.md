@@ -1,19 +1,25 @@
 # 📄 Resume Builder
 
-A simple Resume Builder developed using **HTML**. The application provides a structured resume template where users can enter their personal, educational, and professional details in an organized format.
+A web-based Resume Builder developed using **HTML**, **CSS**, and **JavaScript**. The application allows users to enter their personal and professional information to generate a clean, structured resume instantly.
 
 ## Features
 
 - Enter personal information
-- Add educational qualifications
-- Include skills
-- Add projects
-- Add work experience
-- Clean and structured resume layout
+- Add multiple education entries
+- Add multiple skills
+- Include work experience
+- Professional summary section
+- LinkedIn and GitHub profile links
+- Generate a formatted resume instantly
+- Responsive user interface
 
 ## Tech Stack
 
 - HTML
+- CSS (Internal)
+- JavaScript (Internal)
+- Flatpickr
+- Font Awesome
 
 ## Project Structure
 
@@ -39,7 +45,7 @@ cd resume-builder
 
 ### Run the project
 
-Open `index.html` in any web browser.
+Open `index.html` in your preferred web browser.
 
 ## Author
 
